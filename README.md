@@ -1,4 +1,3 @@
 # Drawio
-repositry for Drawio.  
-#ust for saving.  
-##ERYONE CAN skip this repository.
+Repositry for Drawio for private.   
+##EVERYONE CAN ignore this repository.
