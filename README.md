@@ -1,6 +1,6 @@
 # Drawio
 Repositry for Drawio for private.   
-https://www.draw.io/#Hlvmodan%2FDrawio%2Fmaster%2FISTQB
+https://www.draw.io/#Hlvmodan%2FDrawio%2Fmaster%2FISTQB.drawio
 
 %2F : / 
 
