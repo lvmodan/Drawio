@@ -1,12 +1,16 @@
 # Drawio
 Repositry for Drawio for private.   
 https://www.draw.io/#Hlvmodan%2FDrawio%2Fmaster%2FBLminder%2FP_A_R_AR_AM
+
 %2F : / 
+
 ##EVERYONE CAN ignore this repository.
+
 https://www.w3schools.com/tags/ref_urlencode.asp
 
 
 URL-encoding : ASCII Character 
+
 %20 : space
 %21 : ! 
 %22 : ” 
@@ -66,8 +70,8 @@ URL-encoding : ASCII Character
 %58 : X 
 %59 : Y 
 %5A : Z 
-%5B : [ 
-%5C :  
+%5B : [
+%5C : \
 %5D : ] 
 %5E : ^ 
 %5F : _ 
