@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T04:39:57.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" version="14.5.10" etag="OvSRLnKIVjh8Dc0AFm7Q" type="github"><diagram id="o2VEdjW7OoEFsRTBcr2T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-11T05:21:08.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.75" etag="J6OPzCNB_uFKKmMxM0sy" version="14.5.10" type="github">
+  <diagram id="o2VEdjW7OoEFsRTBcr2T" name="Page-1">
+    <mxGraphModel dx="1060" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-1" value="深圳统筹基金" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-2" target="iJKlbjhyEHsgSuVDmAra-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-2" value="1档缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-3" target="iJKlbjhyEHsgSuVDmAra-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-3" value="企业单位交付比例：&lt;br&gt;企业5.2%+个人2%&lt;br&gt;社会平均工资的60%-300%&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-5" target="iJKlbjhyEHsgSuVDmAra-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-5" value="分帐：&lt;br&gt;45岁以上：1.6%交给统筹基金" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-10" target="iJKlbjhyEHsgSuVDmAra-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-10" value="2档缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-11" target="iJKlbjhyEHsgSuVDmAra-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-11" value="单位0.6%+个人0.2%&lt;br&gt;社会平均工资" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-14" value="&lt;span&gt;分帐：&lt;/span&gt;&lt;br&gt;&lt;span&gt;全部交给统筹基金&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-16" target="iJKlbjhyEHsgSuVDmAra-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-16" value="3档缴费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-17" target="iJKlbjhyEHsgSuVDmAra-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-17" value="&lt;span&gt;单位0.45%+个人0.1%&lt;br&gt;&lt;/span&gt;社会平均工资&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-19" value="&lt;span&gt;分帐：&lt;/span&gt;&lt;br&gt;&lt;span&gt;全部交给统筹基金&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-21" target="iJKlbjhyEHsgSuVDmAra-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-21" value="全市医院可用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-22" target="iJKlbjhyEHsgSuVDmAra-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-22" value="定点社康可用，&lt;br&gt;住院和大病指定医院" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.452;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-23" target="iJKlbjhyEHsgSuVDmAra-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-23" value="定点社康可用&lt;br&gt;大病指定医院&lt;br&gt;住院指定社康" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-24" value="普通门诊： 扣个人账户， 不足自费，&lt;br&gt;自费累计超过6000元，可以保险70%&lt;br&gt;大病75%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="380" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-26" value="普通门诊： 统筹基金，可以报乙60%或甲80%，最高1000元&lt;br&gt;大病75%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-29" value="普通门诊： 统筹基金，可以报乙60%或甲80%，最高1000元&lt;br&gt;大病75%" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="380" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-31" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-32" target="iJKlbjhyEHsgSuVDmAra-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-32" target="iJKlbjhyEHsgSuVDmAra-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iJKlbjhyEHsgSuVDmAra-32" target="iJKlbjhyEHsgSuVDmAra-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-32" value="假设我5000元工资&amp;lt;6387" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-33" value="&lt;span&gt;2021年平均工资10646&lt;br&gt;60%=6387&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-34" value="一档共交459，&lt;br&gt;&amp;nbsp;交 102给统筹基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-36" value="二档共交85，&lt;br&gt;&amp;nbsp;全交给统筹基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iJKlbjhyEHsgSuVDmAra-38" value="三档共交58，&lt;br&gt;&amp;nbsp;全交给统筹基金" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
